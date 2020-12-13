@@ -9,6 +9,7 @@ def shinyGold(g, graph):
 
     return False
 
+
 def part1(graph):
     p1 = 0
 
